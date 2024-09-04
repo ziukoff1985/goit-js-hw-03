@@ -1,3 +1,3 @@
 # goit-js-hw-03
 
-JavaScript*Homework*#3
+JavaScript_Homework_#3
